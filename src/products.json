@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "title": "sakız",
+        "price": 0.5,
+        "image":"http://esenlik.com.tr//images/prod/4915.jpg"
+    },
+    {
+        "id": 2,
+        "title": "cola",
+        "price": 2,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6400-coca-cola-200-ml-cam-54491250-jpg-54491250.jpg"
+    },
+    {
+        "id": 3,
+        "title": "çikolata",
+        "price": 3.7,
+        "image":"https://www.haciserif.com/antep-fistikli-nota-cikolata-gold-kutu-yaldizli-cikolatalar-haci-serif-12519-94-B.jpg"
+    },
+    {
+        "id": 4,
+        "title": "deterjan",
+        "price": 15.9,
+        "image":"https://www.ankastredunyasi.com/images/thumbs/0010628_ariel-deterjan-1-kol-4-adet_600.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "fındık kreması",
+        "price": 9.8, 
+        "image":"https://productimages.hepsiburada.net/s/18/500/9791081971762.jpg"
+    },
+    {
+        "id": 6,
+        "title": "deodorant",
+        "price": 7.6,
+        "image":"https://cdn.dsmcdn.com/ty11/product/media/images/20200907/12/9938973/12698456/1/1_org_zoom.jpg"
+    },
+    {
+        "id":7,
+        "title":"makarna",
+        "price":3.4,
+        "image":"https://productimages.hepsiburada.net/s/35/1500/10471157760050.jpg"
+    },
+    {
+        "id":8,
+        "title":"bulaşık deterjanı",
+        "price":20.3,
+        "image":"https://img-watsons.mncdn.com/Content/Images/Thumbs/0308571_losyonlusivi-bulasik-deterjani-750-ml.png"
+    },
+    {
+        "id":9,
+        "title":"ekmek",
+        "price":1.9,
+        "image":"https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/bby-ekmek-yemekcom.jpg"
+    },
+    {
+        "id":10,
+        "title":"sucuk",
+        "price":47.5,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30015414/30015414_0_MC/8796393439282_1528879444982.jpg"
+    },
+    {
+        "id":11,
+        "title":"yumurta",
+        "price":12.7,
+        "image":"https://i4.hurimg.com/i/hurriyet/75/750x422/614101c74e3fe010a0e8c72d.jpg"
+    },
+    {
+        "id":12,
+        "title":"tost makinesi",
+        "price":250,
+        "image":"https://6rk3rbju.rocketcdn.com/image/cdndata/185/202102/153.06.11.0448/8697918574710-1.jpg"
+    },
+    {
+        "id":13,
+        "title":"kahve makinesi",
+        "price":600,
+        "image":"https://cdn.cimri.io/image/1000x1000/philipsepwmlkahvemakinesi_434856794.jpg"
+    },
+    {
+        "id":14,
+        "title":"su ısıtıcı",
+        "price":150,
+        "image":"https://statics.vestel.com.tr/productimages/20244265_r1_1000_1000.jpg"
+    },
+    {
+        "id":15,
+        "title":"şampuan",
+        "price":8.5,
+        "image":"https://www.kozmela.com/UserFiles/Product/big/3600523699148.jpg"
+    },
+    {
+        "id":16,
+        "title":"tost peyniri",
+        "price":50,
+        "image":"https://cdn2.lazimbana.com/2/600/600/product/2019/08/23/644012/torku-tam-yagli-tost-peyniri-2-kg-6-1586968392.jpg"
+    },
+    {
+        "id":17,
+        "title":"tuvalet kağıdı",
+        "price":100,
+        "image":"https://productimages.hepsiburada.net/s/43/375/10761072279602.jpg"
+    },
+    {
+        "id":18,
+        "title":"filtre kahve",
+        "price":49,
+        "image":"https://cdnd.kahvedunyasi.com/product/500x500/13.300.2040.0001.png"
+    },
+    {
+        "id":19,
+        "title":"jelibon",
+        "price":9,
+        "image":"https://www.marketimgeldi.com/Uploads/UrunResimleri/buyuk/haribo-jelibon-goldbears-6a7d.jpg"
+    },
+    {
+        "id":20,
+        "title":"Limon kolonyası",
+        "price":49,
+        "image":"https://www.cagri.com/Uploads/UrunResimleri/buyuk/eyup-sabri-tuncer-kolonya-pet-200-ml-2940.jpg"
+    },
+    {
+        "id":21,
+        "title":"Bonibon",
+        "price":2,
+        "image":"https://cdn.cimri.io/market/260x260/milka-24x243-gr-bonibon-draje-seker-_243251.jpg"
+    },
+    {
+        "id":22,
+        "title":"Kadın Gözlük",
+        "price":35,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXri52Dya3WDkv_b9oZdBZpPR3wdvAidatbQ&usqp=CAU"
+    },
+    {
+        "id":23,
+        "title":"T-shirt",
+        "price":40,
+        "image":"https://www.sokakbutik.com/UserFiles/Fotograflar/org/6484-avokado-baskili-yesil-oversize-unisex-tshirt-img-7673-jpg-img-7673.jpg"
+    },
+    {
+        "id":24,
+        "title":"Kolye",
+        "price":15,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6B0tUjTk8Y7Rzs5qq9VbuZWtzbRoW3aeXuQ&usqp=CAU"
+    }
+
+
+    
+]
